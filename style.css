@@ -1,0 +1,64 @@
+.logo {
+    width: 170px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.logo svg {
+    width: 100%;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+p.headline-big {
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Canela Web';
+    margin: 0px;
+    font-size: 84px;
+    font-weight: 400;
+    margin-top: 130px;
+}
+
+.headline-small {
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Canela Web';
+    margin: 0px;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.byline {
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Atlas Grotesk Web';
+    font-weight: 500;
+    /* text-transform: uppercase; */
+    letter-spacing: 1px;
+}
+
+.byline-section {
+    margin-top: 90px;
+}
+
+.prose-big {
+    margin: 0 auto;
+    max-width: 650px;
+    font-family: 'Publico Text Web';
+    font-size: .95rem;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    margin-top: 20px;
+    line-height: 1.6;
+}
+
+.byline a {
+    color: initial;
+    text-decoration: none;
+    border-bottom: 1px solid red;
+}
