@@ -4,6 +4,16 @@
     width: 10rem;
 }
 
+.logo-alt{
+    margin: 0 auto;
+    padding-top: 10px;
+    width: 8rem;
+}
+
+.logo-alt svg {
+    width: 100%;
+}
+
 .logo svg {
     width: 100%;
 }
@@ -154,4 +164,9 @@ p.headline-big {
     font-weight: 600;
     margin-top: 150px;
     line-height: 1.5;
+}
+
+
+.logo-alt path {
+    fill: #3F51B5;
 }
